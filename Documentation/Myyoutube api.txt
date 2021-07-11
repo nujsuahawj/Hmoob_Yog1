@@ -1,0 +1,18 @@
+Youtube: AIzaSyBdQPcvR_Qs4bmkyDTrEmhOCtPnKHdPypE
+Vimeo: 5ed28c344e2c6619be779eac4e51b5355422bd85
+
+host1:
+Password: Lt<9{eHm($Z_qd]p
+DB name: id14600453_sim
+DB user: id14600453_nujsim
+DB Host: localhost
+
+host2:
+http://onschool.ueuo.com
+Username: onschool.ueuo.com
+Password: 252565252565
+DB username: 293026
+DB password: 252565252565
+DB name: 293026
+
+
