@@ -8,11 +8,10 @@ DB user: id14600453_nujsim
 DB Host: localhost
 
 host2:
-http://onschool.ueuo.com
-Username: onschool.ueuo.com
-Password: 252565252565
-DB username: 293026
-DB password: 252565252565
-DB name: 293026
+onlinesch.unaux.com
+
+hostname: ftpupload.net
+username: unaux_29127472
+password: be7vhh7qlhr
 
 
